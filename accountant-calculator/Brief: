@@ -1,0 +1,12 @@
+Brief:
+
+The Task I want to do I to create a visual receipt. This task so be quite straight forward.
+
+As a user I want to:
+• Add my item and price line by line.
+• Price should be entered on prompt
+• Items should be listed visual as if it is on a receipt piece of paper
+• At the end I want to press a button to get me sub total and total (complete total includes VAT).
+• Vat is 20%
+• If I made a mistake in the price I would like to go back and make an edit to a price and then the new total is recaluted
+• Prince in £ currency
